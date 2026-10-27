@@ -1,0 +1,12 @@
+{
+  "name": "ngomikgeng",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.x"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
